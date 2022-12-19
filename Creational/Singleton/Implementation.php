@@ -1,6 +1,6 @@
 <?php
 /*
-Singleton Design Pattern Impelementation
+Singleton Design Pattern Implementation
 first we need to make the constructor  private so we prevent creating multi objects using new keyword
 then we declare private static object from the same class type using new
 then we declare public static method  to return this object every time new object is created
